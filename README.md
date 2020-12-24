@@ -1,4 +1,10 @@
 ### Hi there 👋
+比较常用的id: kingkk/kingkaki
+- 🔭 Java Security
+- 🌱 IAST & RASP
+- 😄 Static Analysis/SAST
+- ⚡ 以上我都不会
+
 
 <!--
 **kingkaki/kingkaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
