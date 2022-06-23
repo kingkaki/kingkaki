@@ -2,9 +2,9 @@
 比较常用的id: kingkk/kingkaki
 - 🔭 Java Security
 - 🌱 IAST & RASP
-- 😄 Static Program Analysis/SAST
-- ⚡ 以上我都不会
-- ✨ 最近在学云原生的拼写
+- 😄 Static Program Analysis / SAST
+- ✨ 云原生的拼写也没学会
+- 💬 BlockChain beginner
 
 <img src="https://github-readme-stats.vercel.app/api?username=kingkaki&show_icons=true&theme=prussian&include_all_commits=true&count_private=true&layout=compact" alt="My github stats"/>
 <!--
